@@ -3,7 +3,7 @@ import { ref } from 'vue'
 const logoUrl = ref(new URL('@/assets/images/doge.png', import.meta.url).href)
 const githubLogoUrl = ref(new URL('@/assets/images/github.png', import.meta.url).href)
 const webTitle = ref('圖片壓縮')
-const githubUrl = ref('https://github.com/')
+const githubUrl = ref('https://github.com/KennKyou/image-compression')
 const githubTitle = ref('GitHub（另開新視窗）')
 </script>
 
